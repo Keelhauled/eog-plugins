@@ -1,0 +1,8 @@
+[Plugin]
+Module=fast_close
+IAge=2
+Loader=python3
+Name=Fast Close
+Icon=postr
+Description=Close with esc even in fullscreen
+Authors=Keelhauled

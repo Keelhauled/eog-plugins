@@ -1,0 +1,10 @@
+[Plugin]
+Module=fit-to-screen
+IAge=2
+Loader=python3
+Name=Fit to Screen
+Icon=postr
+Description=Fit image to screen automatically
+Authors=Keelhauled
+Copyright=
+Website=

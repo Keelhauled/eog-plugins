@@ -1,0 +1,8 @@
+[Plugin]
+Module=auto_fullscreen
+IAge=2
+Loader=python3
+Name=Auto Fullscreen
+Icon=view-fullscreen
+Description=Start new windows in fullscreen
+Authors=Keelhauled
